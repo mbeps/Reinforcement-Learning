@@ -24,6 +24,8 @@ tensorflow = "^2.16.2"
 keras = "^3.4.1"
 gymnasium = {extras = ["box2d"], version = "^0.29.1"}
 torch = "^2.3.1"
+imageio = "^2.34.2"
+gym = "^0.26.2"
 
 
 [build-system]
