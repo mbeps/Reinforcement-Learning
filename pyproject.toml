@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "machine-learning-course"
+name = "deep-learning-course"
 version = "0.1.0"
 description = "Machine Learning Course"
 authors = ["Maruf Bepary <bepary71@gmail.com>"]
